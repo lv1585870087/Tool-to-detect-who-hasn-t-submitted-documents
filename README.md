@@ -7,9 +7,7 @@
 
 使用教程：
 1.录入人员名单，用英文逗号隔开（最后一人不需要逗号）。
-
-2.把提交的文件全部放入提交文件夹内。
-<img width="448" alt="image" src="https://user-images.githubusercontent.com/45760920/163669938-fe434fae-2682-402a-afb8-952504465fd4.png">
+2.把提交的文件全部放入提交文件夹内。<img width="448" alt="image" src="https://user-images.githubusercontent.com/45760920/163669938-fe434fae-2682-402a-afb8-952504465fd4.png">
 
 
 
