@@ -1,0 +1,1 @@
+（提示）win_app是Windows编译好可执行文件，另外Windows中文用的是gbk作为系统默认编码所以“人员名单“请用GBK编码否则乱码
